@@ -19,6 +19,7 @@ footer{
 p{
     width: 100%;
     background-color: rgb(212, 212, 93);
+    padding: 5px;
 }
 
 ul a{
