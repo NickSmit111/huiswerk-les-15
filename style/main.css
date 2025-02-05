@@ -32,6 +32,7 @@ li{
     width: 100px;
     padding: 5px;
     background-color: rgb(212, 212, 93);
+    color: rgb(85, 85, 85);
 }
 
 li:hover{
